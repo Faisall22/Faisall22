@@ -1,26 +1,94 @@
-![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
-<h1 align="center">Hi 👋, I'm Mohammed Faisal</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisall22&label=Profile%20views&color=0e75b6&style=flat" alt="faisall22" /> </p>
+<!--
+  SEO metadata for recruiters and ATS crawlers.
+  Role targets: Senior AI Engineer, Senior LLM Engineer, Senior Backend Engineer,
+  Senior Data Engineer, Senior Platform Engineer, Senior Full-Stack Engineer,
+  Applied AI Engineer, Full-Stack AI Engineer, AI Infrastructure Engineer,
+  Software Engineer.
+  Skills: Python, FastAPI, Next.js, React, TypeScript, GCP, Google Cloud Platform,
+  Vertex AI, Gemini, Claude, Gemma, BigQuery, Cloud Run, Temporal, Terraform,
+  LLM, Large Language Models, Generative AI, Batch Inference, Structured Outputs,
+  RAG, Prompt Engineering, Vision Models, Data Pipelines, Distributed Systems,
+  Web Scraping, Playwright, Crawl4AI, Camoufox, Browser Automation,
+  Production AI, MLOps, API Design, Backend Engineering, Full-Stack Development,
+  Internal Platforms, Developer Tooling, Google Apps Script.
+  Location: Bengaluru, India. Open to Remote and Hybrid.
+-->
 
-- 🌱 I’m currently learning **Node.js**
+# Senior Engineer — AI · Backend · Data · Platform
 
-- 💬 Ask me about **Core Java, HTML5, CSS3, JavaScript and Manual Testing**
+> Building production systems where LLMs, APIs, pipelines, and infrastructure meet — with full-stack consoles on top.
 
-- 📫 How to reach me **mohammedfaisal158@gmail.com**
+## About
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammedfaisall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedfaisall" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mohammedfaisal11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mohammedfaisal11" height="30" width="40" /></a>
-</p>
+I build and operate production systems across the stack — from typed backend APIs to LLM inference pipelines to the Next.js consoles that put them in front of humans. My work lives where applied AI meets backend engineering: the layer where prompts become APIs, research becomes infrastructure, and pipelines have to actually run on Monday morning.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+I care about the parts of engineering that don't show up in architecture diagrams: clear contracts, honest benchmarks, and systems the next engineer can reason about without paging me.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisall22&show_icons=true&locale=en&layout=compact" alt="faisall22" /></p>
+**Currently open to:** Senior roles in AI / LLM Engineering · Backend Engineering · Data Engineering · Platform Engineering · Full-Stack Engineering. Bengaluru, India. Remote and hybrid welcome.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisall22&show_icons=true&locale=en" alt="faisall22" /></p>
+## What I Do
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisall22&" alt="faisall22" /></p>
+**Backend Engineering.** Python services with FastAPI, typed payloads with Pydantic, async job orchestration, signed-URL flows, and clean API contracts. Signal-based validation systems (REJECT / WARN / INFO), fuzzy-matching and dedup logic, internal tooling, and well-scoped services that downstream teams can integrate against without surprises.
+
+**AI / LLM Infrastructure.** Batch and online inference pipelines on Vertex AI with Gemini 2.5 Pro / Flash. Structured outputs with strict schemas, prompt versioning with Jinja2, LLM-as-judge evaluation harnesses, and cost-latency benchmarking across managed APIs (Gemini, Claude) and self-hosted open-weights models (Gemma, Llama). Vision-language agents combining Playwright automation with Gemini vision.
+
+**Full-Stack Consoles.** Next.js + React + Tailwind + shadcn/ui front-ends for internal AI tooling — feedback triage, pipeline playgrounds, QA dashboards, and admin surfaces. Token-driven design systems, dark mode with a single source of truth, logical properties for RTL, and CSS that other engineers can maintain.
+
+**Data Engineering.** Fault-tolerant workflows with Temporal, orchestrating ingestion → enrichment → inference at the 100K-entity scale. Schema-driven transformations writing structured NDJSON into BigQuery. Entity merge and dedup logic with alias handling, evidence-quote re-namespacing, and auditable merge metadata.
+
+**Platform & Automation.** Internal developer platforms on GCP — self-serve infrastructure via FastAPI + Terraform, horizontally scalable job runners on Cloud Run Jobs (100K URLs in parallel), and automation layers that turn manual provisioning into one-shot API calls. Multi-region deployment strategy (us-central1 / asia-south1) with real cost-latency tradeoff analysis.
+
+**Web Automation & Scraping.** Multi-engine scraping systems with auto-fallback across Playwright, Crawl4AI, Camoufox, Trafilatura, and BeautifulSoup. Domain-specific engine rules, JS-heavy page detection, per-key rate limiting, pluggable storage (local / GCS / S3), and honest benchmarking methodology producing the data that drove engine-selection decisions.
+
+**Internal Tooling.** Google Apps Script email pipelines with HTML templates and deep links. Styled Excel reports with pivot summaries via `openpyxl`. Feedback dashboards that close the loop between raw user complaints and actionable engineering tickets.
+
+## Stack
+
+**Languages** &nbsp;·&nbsp; Python · TypeScript · JavaScript · SQL · Bash · YAML
+
+**Backend Frameworks** &nbsp;·&nbsp; FastAPI · Pydantic · Typer · asyncio · uvicorn · SQLAlchemy
+
+**Frontend & Full-Stack** &nbsp;·&nbsp; Next.js · React · Tailwind CSS · shadcn/ui · HTML5 · CSS3 · Radix UI
+
+**LLM Platforms** &nbsp;·&nbsp; Vertex AI · Google AI Studio · Anthropic API · Model Garden
+
+**LLM Models** &nbsp;·&nbsp; Gemini · Claude Sonnet / Opus · Gemma · Llama · Mistral
+
+**LLM Patterns** &nbsp;·&nbsp; Batch Prediction · Structured Outputs · Function Calling · RAG · Prompt Engineering · LLM-as-Judge Evaluation · Vision Models
+
+**Data & Storage** &nbsp;·&nbsp; BigQuery · PostgreSQL · Google Cloud Storage · Amazon S3 · JSONL / NDJSON · Parquet
+
+**Orchestration** &nbsp;·&nbsp; Temporal · Cloud Scheduler · Pub/Sub
+
+**Cloud (GCP)** &nbsp;·&nbsp; Cloud Run · Cloud Run Jobs · Cloud Functions · Compute Engine · Vertex AI · Cloud Build · IAM
+
+**Infra as Code** &nbsp;·&nbsp; Terraform · Docker · Cloud Build pipelines
+
+**Web Automation** &nbsp;·&nbsp; Playwright · Crawl4AI · Camoufox · Trafilatura · BeautifulSoup4 · Docling
+
+**Data Processing** &nbsp;·&nbsp; pandas · RapidFuzz · openpyxl · Jinja2
+
+**APIs & Integration** &nbsp;·&nbsp; REST · Webhooks · Signed URLs · Cookie / Session handling · Headless browser auth
+
+**Tooling & Ops** &nbsp;·&nbsp; Google Apps Script · Sheets API · Gmail API · Git · pytest · OpenTelemetry
+
+## How I Work
+
+- **Explicit contracts over implicit behaviour** — typed APIs, schema-driven data, versioned prompts.
+- **Benchmarks over opinions** — decisions backed by numbers, not intuition.
+- **Small reversible changes over rewrites** — incremental migration wins almost every time.
+- **Documentation that outlives the author** — design docs, runbooks, and READMEs that pay forward.
+- **Cost and reliability as first-class constraints** — not bolted on at the end.
+- **Cross-functional ownership** — I don't hand off at the service boundary. If the pipeline breaks because of schema drift three systems upstream, that's still my problem to surface and fix.
+
+## Beyond the Code
+
+- Writing internal design docs and runbooks that teams actually reference
+- Mentoring on API design, LLM evaluation methodology, and production debugging
+- Benchmarking vendors and tools honestly — useful recommendations need data, not vibes
+- Building small tools that save other engineers hours, because the best infra is the kind nobody notices
+
+## Contact
+
+- **LinkedIn** &nbsp;·&nbsp; *https://www.linkedin.com/in/mohammedfaisall/*
+- **Location** &nbsp;·&nbsp; Bengaluru, India · Open to remote
